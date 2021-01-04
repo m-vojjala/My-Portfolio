@@ -7,7 +7,7 @@ export default function Projects() {
         <section className="card" >
             <div className="project-first" >
                 <a href="https://github.com/m-vojjala/tweeter" style={{ textDecoration: 'none' }}>
-                    <Card shadow={0} style={{ width: '320px', height: '320px', margin: 'auto', borderRadius: '10px' }} >
+                    <Card shadow={0} style={{ width: '500px', height: '500px', margin: 'auto', borderRadius: '10px' }} >
                         <CardTitle expand style={{ color: '#00008B', background: 'url(images/thumb_tweeternew.png) no-repeat', borderBottom: ' #325C74 solid thin' }}> </CardTitle>
                         <CardText style={{ color: '#325C74', background: '#F3F2F2' }}>
                             <strong >Tweeter</strong> is a simple, single-page Twitter clone that uses HTML, CSS, JS, jQuery, AJAX on the client-side, and Node, Express and MongoDB on the server-side. <strong>(November 21, 2020)</strong>
