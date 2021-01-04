@@ -1,0 +1,26 @@
+.about-me{
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  margin:30px 450px 30px; 
+  padding-top: 400px;
+  padding-bottom: 20px;
+}
+
+.aboutme-para{
+  font-size:  17px;
+  
+}
+
+.aboutme-head{
+  font-family: 'Oxygen', sans-serif;
+  text-decoration: underline;
+  font-weight: 700;
+  text-shadow: 2px 2px #83B4DC;
+}
+
+@media only screen and (max-width:1237px) {
+  .about-me{
+    margin:30px 30px;
+  }
+ }
+ 

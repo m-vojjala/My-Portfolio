@@ -1,0 +1,52 @@
+.home-grid{
+  background: #000046;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.home-cell{
+text-align: center;
+font-family: 'Oxygen', sans-serif;
+color: 	#F5FFFA;
+}
+.name{
+  font-family: 'Oxygen', sans-serif;
+  padding-left: 7px;
+  font-weight: 700;
+}
+
+img{
+  position: relative;
+  border-radius: 70%;
+  width:100px;
+  height: 100px;
+}
+.fab{
+  width: 100px;
+  height: 100px;
+  color:	#BC8F8F;
+}
+.active, .fab:hover {
+  color: 	#F0F8FF;
+}
+
+#home{
+  padding-top: 20px;
+}
+
+@media only screen and(max-width:1237px){
+.mdl-grid{
+width: 100%;
+margin:0;
+padding: 0;
+}
+}
+
+@media only screen and (min-width :300px) and (max-width:545px){
+  .mdl-grid{
+    width: 100%;
+    margin:0;
+    padding: 0;
+    }
+   }
+  

@@ -1,0 +1,25 @@
+.skills {
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
+  margin: 10px 450px 40px;
+  padding-bottom: 20px;
+}
+
+.skills-head {
+  font-family: 'Oxygen', sans-serif;
+  text-decoration: underline;
+  font-weight: 700;
+  text-shadow: 2px 2px #83B4DC;
+}
+
+hr {
+  clear: both;
+  visibility: hidden;
+}
+
+@media only screen and (max-width:1237px) {
+  .skills {
+      margin: 30px 30px;
+  }
+}

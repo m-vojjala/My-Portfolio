@@ -1,0 +1,113 @@
+.card{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  margin:10px 150px 40px;
+  
+}
+
+.project{
+  text-align: center;
+  padding-bottom:20px;
+}
+
+.project-head{
+  font-family: 'Oxygen', sans-serif;
+  text-decoration: underline;
+  padding-bottom: 30px;
+  font-weight: 700;
+  text-shadow: 2px 2px #83B4DC;
+}
+.active, .mdl-card:hover {
+  box-shadow:5px 10px 5px #778899 ;
+}
+
+.mdl-card{
+  height: 200px;
+  width: 200px;
+  border: #666 solid;
+}
+
+.mdl-card__supporting-text {
+  font-family: 'Oxygen', sans-serif;
+ 
+}
+
+.active, .mdl-button:hover {
+  box-shadow:5px 10px 5px #778899 ; 
+}
+
+.project-first{
+  padding-left: 300px;
+}
+
+.project-second{
+  padding-right: 300px;
+}
+
+.mdl-card--expand{
+  opacity: 1;
+}
+
+.mdl-card--expand:hover {
+  opacity: 0.5;
+}
+
+@media only screen and (max-width:1237px) {
+  .card{
+    margin:30px 30px;
+    display:block;
+  }
+  .project{
+    display: block;
+  }
+  .project-first{
+    padding-left: 0;
+  }
+  
+  .project-second{
+    padding-right:0;
+    padding-top: 40px;
+  }
+  .active, .mdl-card:hover {
+    box-shadow:5px 10px 5px #778899 ;
+  }
+  .mdl-card--expand{
+    opacity: 1;
+  }
+  
+  .mdl-card--expand:hover {
+    opacity: 0.5;
+  }
+ }
+
+ @media only screen and (min-width :300px) and (max-width:545px){
+  .card{
+    margin:30px 30px;
+    display:block;
+  }
+  .project{
+    display: block;
+  }
+  .project-first{
+    padding-left: 0;
+  }
+  
+  .project-second{
+    padding-right:0;
+    padding-top: 30px;
+  }
+  .active, .mdl-card:hover {
+    box-shadow:5px 10px 5px #778899 ;
+  }
+  .mdl-card--expand{
+    opacity: 1;
+  }
+  
+  .mdl-card--expand:hover {
+    opacity: 0.5;
+  }
+   }
+  
+ 
+
