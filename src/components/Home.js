@@ -12,7 +12,7 @@ export default function Home(){
     <h3 className="name">MOUNIKA VOJJALA</h3>
     <ul className="icons"></ul>
     <a href="https://www.linkedin.com/in/mounika-vojjala-a157a98a/"><i  class="fab fa-linkedin-in fa-3x" ></i></a>
-    <a href="https://ubgith.com"><i  class="fab fa-github fa-3x" ></i></a>
+    <a href="https://github.com"><i  class="fab fa-github fa-3x" ></i></a>
   
     </Cell>
     </Grid>
