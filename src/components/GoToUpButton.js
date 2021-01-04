@@ -1,4 +1,3 @@
-
 import  {useState} from 'react';
 import {FaArrowCircleUp} from 'react-icons/fa';
 import './GoToUpButton.css';
