@@ -34,7 +34,7 @@ img{
   padding-top: 30px;
 }
 
-@media only screen and(max-width:1237px){
+@media only screen and(max-width:2000px){
 .mdl-grid{
 width: 100%;
 margin:0;
@@ -43,18 +43,48 @@ padding: 0;
 #home{
   padding-top: 30px;
 }
-
 }
 
-@media only screen and (min-width :300px) and (max-width:545px){
+@media only screen and(max-width:992){
+  .mdl-grid{
+  width: 100%;
+  margin:0;
+  padding: 0;
+  }
+  #home{
+    padding-top: 20px;
+  }
+}
+@media only screen and (max-width: 600px) {
   .mdl-grid{
     width: 100%;
     margin:0;
     padding: 0;
     }
     #home{
-      padding-top: 10px;
+      padding-top: 20px;
     }
-    
-   }
-  
+
+}
+
+@media (max-width: 479px){
+  .mdl-grid{
+    width: 100%;
+    margin:0;
+    padding: 0;
+    }
+    #home{
+      padding-top: 20px;
+    }
+}
+
+  @media (max-width: 361px){
+    .mdl-grid{
+      width: 100%;
+      margin:0;
+      padding: 0;
+      }
+      #home{
+        padding-top: 20px;
+      }
+}

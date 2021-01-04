@@ -17,9 +17,35 @@ hr {
   clear: both;
   visibility: hidden;
 }
+.head-5{
+  font-family: 'Oxygen', sans-serif;
+  font-size: 25px;
+}
 
-@media only screen and (max-width:1237px) {
-  .skills {
-      margin: 30px 30px;
+@media screen and (max-width:2000px){
+  .skills{
+    text-align: center;
+    margin: 0;
+    width: 100%;
   }
 }
+@media only screen and (min-width: 1200px){
+  .skills{
+    text-align: center;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .skills{
+    text-align: center;
+    margin: 0;
+    width: 100%;
+  }
+  .head-5{
+    font-family: 'Oxygen', sans-serif;
+    font-size: 20px;
+  }
+
+ }
+ 

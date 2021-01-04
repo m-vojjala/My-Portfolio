@@ -1,5 +1,5 @@
 import { Link } from 'react-scroll';
-import {Navigation,Header, Layout} from "react-mdl";
+import {Navigation,Header, Layout,Content} from "react-mdl";
 import Home from "./Home"
 import "./Navbar.css";
 
@@ -34,7 +34,9 @@ export default function Navbar(){
 >CONTACT</Link>
           </Navigation>
       </Header>
+      <Content>
       <Home />
+      </Content>
       </Layout>
      </div>
 }

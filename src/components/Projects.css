@@ -54,7 +54,7 @@
   opacity: 0.5;
 }
 
-@media only screen and (max-width:1237px) {
+@media only screen and (max-width:2000px) {
   .card{
     margin:30px 30px;
     display:block;
@@ -82,7 +82,9 @@
   }
  }
 
- @media only screen and (min-width :300px) and (max-width:545px){
+ 
+
+ @media only screen and (max-width: 992px) {
   .card{
     margin:30px 30px;
     display:block;
@@ -96,7 +98,7 @@
   
   .project-second{
     padding-right:0;
-    padding-top: 30px;
+    padding-top: 40px;
   }
   .active, .mdl-card:hover {
     box-shadow:5px 10px 5px #778899 ;
@@ -108,7 +110,35 @@
   .mdl-card--expand:hover {
     opacity: 0.5;
   }
-   }
+ }
+ 
+ @media only screen and (max-width: 600px) {
+  .card{
+    margin:30px 30px;
+    display:block;
+  }
+  .project{
+    display: block;
+  }
+  .project-first{
+    padding-left: 0;
+  }
   
+  .project-second{
+    padding-right:0;
+    padding-top: 40px;
+  }
+  .active, .mdl-card:hover {
+    box-shadow:5px 10px 5px #778899 ;
+  }
+  .mdl-card--expand{
+    opacity: 1;
+  }
+  
+  .mdl-card--expand:hover {
+    opacity: 0.5;
+  }
+}
+
  
 
