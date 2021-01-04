@@ -34,7 +34,7 @@ export default function Projects() {
                     <Card shadow={0} style={{ width: '350px', height: '350px', margin: 'auto', borderRadius: '10px', marginTop: '40px' }}>
                         <CardTitle expand style={{ color: '#E0FFFF', background: 'url(images/thumb_scheduler1.png) no-repeat', borderBottom: ' #325C74 solid thin', textAlign: 'center' }}>
                         </CardTitle>
-                        <CardText style={{ color: '#325C74', background: '#F3F2F2' }}>
+                        <CardText style={{ color: '#325C74', background: '#F3F2F2',fontSize:'5px'}}>
                             <strong > Scheduler </strong> is a app that allow users to book, cancel the interview appointments.It is built with React, SASS, WebPack, Babel, Axios on client-side. Node.js, Express, Postgres on server-side. Storybook, Testing Library, WebPack Dev Server, Jest, and Cypress for testing.
                     <strong>(December 16, 2020)</strong>
                         </CardText>
