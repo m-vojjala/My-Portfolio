@@ -11,14 +11,14 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Navbar />
+    <Navbar />
     <Aboutme />
     <Skills />
     <Projects />
     <Education />
     <Contact />
     <GoToUpButton />
-    <Footerbar />
+    <Footerbar /> 
     </div>
   );
 }
