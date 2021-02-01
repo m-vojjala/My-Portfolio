@@ -33,7 +33,7 @@
   }
   
 }
- /* @media (min-width:600px){
+@media screen and (min-width:600px) and (max-width:1024px){
   .education-one{
    margin-left:100px;
    width: 50%;
@@ -46,7 +46,7 @@
      margin-left:100px; 
      
   }  
-} */
+} 
 /* @media screen and (min-width: 768px){
   .education-header{
     font-family: 'Oxygen', sans-serif;
