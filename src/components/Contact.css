@@ -63,6 +63,9 @@ color:#CC3232;
 
 @media (max-width: 479px){
   .contact{
-    margin-left: 127px;
+    margin-left: 125px;
+  }
+  .contact-head{
+    margin-left: 125px;
   }
 }

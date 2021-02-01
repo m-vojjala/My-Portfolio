@@ -143,6 +143,9 @@
 
 @media (max-width: 479px){
   .project{
-    margin-left: 127px;
+    margin-left: 125px;
+  }
+  .project-head{
+    margin-left: 125px;
   }
 }
