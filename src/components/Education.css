@@ -20,12 +20,12 @@
 }
 @media (max-width: 479px){
   .education-one{
-    margin-left: 220px;
+    margin-left: 240px;
   }
   .education-two{
-    margin-left: 200px;
+    margin-left: 220px;
   }
   .education-header{
-    margin-left:200px; 
+    margin-left:220px; 
   }
 }
