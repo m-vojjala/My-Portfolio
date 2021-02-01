@@ -60,3 +60,9 @@ color:#CC3232;
   }
 
 }
+
+@media (max-width: 479px){
+  .contact{
+    margin-left: 80px;
+  }
+}
