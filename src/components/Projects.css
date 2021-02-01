@@ -139,7 +139,7 @@
   }
 }
 
-@media (max-width: 479px){
+@media (max-width: 768px){
   .project{
     margin-left: 140px;
   }
