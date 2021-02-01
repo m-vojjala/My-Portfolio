@@ -19,7 +19,13 @@
   font-size: 25px;
 }
 @media (max-width: 479px){
-  .education{
-    margin-left: 150px;
+  .education-one{
+    margin-left: 160px;
+  }
+  .education-two{
+    margin-left: 160px;
+  }
+  .education-header{
+    margin-left: 160px; 
   }
 }
