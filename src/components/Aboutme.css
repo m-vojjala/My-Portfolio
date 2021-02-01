@@ -15,6 +15,7 @@
   text-decoration: underline;
   font-weight: 700;
   text-shadow: 2px 2px #83B4DC;
+  text-align: center;
 }
 
 @media only screen and (max-width:1237px) {

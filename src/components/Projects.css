@@ -16,7 +16,7 @@
   padding-bottom: 30px;
   font-weight: 700;
   text-shadow: 2px 2px #83B4DC;
-  margin-right: 30px;
+text-align: center;
 }
 .active, .mdl-card:hover {
   box-shadow:5px 10px 5px #778899 ;

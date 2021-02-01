@@ -13,6 +13,7 @@ color: 	#F5FFFA;
   font-family: 'Oxygen', sans-serif;
   padding-left: 7px;
   font-weight: 700;
+  text-align: center;
 }
 
 img{
@@ -20,6 +21,7 @@ img{
   border-radius: 70%;
   width:100px;
   height: 100px;
+  text-align: center;
 }
 .fab{
   width: 100px;
