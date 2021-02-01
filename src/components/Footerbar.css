@@ -10,7 +10,7 @@
 }
 @media (max-width: 768px){
 .footer{
-width: 650px;
+  width: 50rem;
 text-align: center;
 }
 }
