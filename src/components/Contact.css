@@ -54,12 +54,12 @@ color:#CC3232;
   padding:20px;
 }
 
-/* @media screen and (max-width:2000px){
+@media screen and (max-width:2000px){
   .contact{
     padding-left: 4em;
   }
 
-} */
+}
 
 @media (max-width:768px){
   .contact{

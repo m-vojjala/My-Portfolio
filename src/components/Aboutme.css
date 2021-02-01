@@ -17,13 +17,13 @@
   text-shadow: 2px 2px #83B4DC;
 }
 
-/* @media only screen and (max-width:1237px) {
+@media only screen and (max-width:1237px) {
   .about-me{
     margin:30px 30px;
   }
- } */
+ } 
 
- /* @media only screen and (max-width: 2000px) {
+ @media only screen and (max-width: 2000px) {
   .about-me{
     margin:30px 30px;
     width:100%;
@@ -36,7 +36,7 @@
     font-size:  17px;
     text-align: center;
   } 
- } */
+ } 
 
  @media (max-width: 768px){
   .about-me{
