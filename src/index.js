@@ -7,7 +7,7 @@ import 'react-mdl/extra/material.js';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-    <App />,
+    <App style={{overflow:"overlay"}}/>,
   document.getElementById('root')
 );
 

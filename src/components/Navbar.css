@@ -14,20 +14,13 @@
   font-size:30px;
   font-family: 'Oxygen', sans-serif; 
 }
-
-@media screen and (max-width:2000px){
-  .mdl-layout__inner-container {
-    display: block;
-    width: 100%;
-    margin: 0;
-    text-align: center;
-  }
-}
-@media only screen and (max-width: 600px) {
-}
 .mdl-layout__inner-container {
-  display: block;
   width: 100%;
-  margin: 0;
-  text-align: center;
 }
+@media (max-width: 479px){
+  .mdl-layout__inner-container {
+    width: 650px;
+  }} 
+
+
+ 
