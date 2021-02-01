@@ -14,9 +14,9 @@ width: 650px;
 text-align: center;
 }
 }
-@media screen and (max-width:1031px){
+@media screen and (min-width:600px){
   .footer{
-  width: 50rem;
+  width: 70rem;
   text-align: center;
   }
 }

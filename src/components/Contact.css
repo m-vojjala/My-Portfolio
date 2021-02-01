@@ -69,3 +69,11 @@ color:#CC3232;
     margin-left: 200px;
   }
 }
+@media screen and (min-width:600px){
+  .contact{
+    margin-left: 100px;
+  }
+  .contact-head{
+    margin-left: 100px;
+  }
+}
