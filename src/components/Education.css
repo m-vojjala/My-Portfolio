@@ -20,14 +20,12 @@
 }
 @media (max-width: 768px){
   .education-one{
-    white-space: nowrap;
-    margin:30px 30px;
-    width:30rem;
-    border-bottom: 2px solid #325C74;
+   margin-left: 220px;
+   width: 50%;
+   border-bottom: 2px solid #325C74;
   }
   .education-two{
-    white-space: nowrap;
-     margin:30px 30px; 
+    margin-left: 220px;
   }
   .education-header{
      margin-left:220px; 
