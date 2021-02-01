@@ -21,9 +21,11 @@
   .mdl-layout__inner-container {
     width: 650px;
   }} 
-  @media screen and(min-width:600px) and (max-width:1031px){
+  @media screen and (max-width:1031px){
     .mdl-layout__inner-container {
+      /* color: red; */
       width: 70rem;
-      margin-top: 30px;
+      margin-top: -5px;
+      
   }}
  
