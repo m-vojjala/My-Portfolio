@@ -48,7 +48,7 @@ hr {
   } */
 
  
- @media (max-width: 479px){
+ @media (max-width: 768px){
    .skills{
      margin-left: 140px;
    }
