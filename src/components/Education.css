@@ -33,7 +33,7 @@
   }
   
 }
-@media (min-width:600px){
+ /* @media (min-width:600px){
   .education-one{
    margin-left:100px;
    width: 50%;
@@ -45,10 +45,9 @@
   .education-header{
      margin-left:100px; 
      
-  }
-  
-}
-@media screen and (min-width: 768px){
+  }  
+} */
+/* @media screen and (min-width: 768px){
   .education-header{
     font-family: 'Oxygen', sans-serif;
     text-decoration: underline;
@@ -69,4 +68,4 @@
   .header-5{
     font-size: 25px;
   }
-}
+} */

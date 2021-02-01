@@ -53,7 +53,7 @@
   opacity: 0.5;
 }
 
- /* @media only screen and (max-width:2000px) {
+ @media only screen and (max-width:2000px) {
   .card{
     margin:30px 30px;
     display:block;
@@ -137,7 +137,7 @@
   .mdl-card--expand:hover {
     opacity: 0.5;
   }
-} */
+}
 
 @media (max-width: 479px){
   .project{
@@ -147,16 +147,16 @@
     margin-left: 140px;
   }
 }
-@media screen and (min-width:600px){
+/* @media screen and (min-width:600px){
   .project{
     margin-left: 100px;
   }
   .project-head{
     margin-left: 100px;
   }
-} 
+}  */
 
-@media screen and (min-width: 768px){
+ /* @media screen and (min-width: 768px){ 
   .card{
     display: flex;
     flex-direction: row;
@@ -211,5 +211,5 @@
   .mdl-card--expand:hover {
     opacity: 0.5;
   }
-  
-}
+   */
+/* } */

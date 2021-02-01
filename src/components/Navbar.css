@@ -21,10 +21,10 @@
   .mdl-layout__inner-container {
     width: 50rem;
   }} 
-  @media screen and (min-width:600px){
+  /* @media screen and (min-width:600px){
     .mdl-layout__inner-container {
       /* color: red; */
-      width: 70rem;
+      /* width: 70rem;
       margin-top: -5px;  
-  }}
- 
+  }} */
+  

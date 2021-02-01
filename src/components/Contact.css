@@ -69,16 +69,16 @@ color:#CC3232;
     margin-left: 200px;
   }
 }
-@media screen and (min-width:600px){
+/* @media screen and (min-width:600px){
   .contact{
     margin-left: 100px;
   }
   .contact-head{
     margin-left: 100px;
   }
-}
+} */
 
-@media screen and (min-width: 768px){
+/* @media screen and (min-width: 768px){
 
   .fas{
     width: 100px;
@@ -136,4 +136,4 @@ color:#CC3232;
     padding:20px;
   }
   
-}
+} */

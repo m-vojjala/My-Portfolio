@@ -44,13 +44,13 @@
     text-align: center;
     margin-left: 140px;
   } }
-  @media screen and (min-width:600px){
+  /* @media screen and (min-width:600px) and(max-width:767px){
     .about-me{
     text-align: center;
     margin-left:100px;
-  }}
-  
-  @media screen and (min-width: 768px){
+  }} 
+    */
+  /* @media screen and (min-width: 768px){
     .about-me{
       text-align: center;
       font-family: 'Oxygen', sans-serif;
@@ -58,4 +58,6 @@
       padding-top: 400px;
       padding-bottom: 20px;
     }
-  }
+  } */
+
+  
