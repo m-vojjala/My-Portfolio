@@ -42,9 +42,9 @@
   .about-me{
     font-size:  17px;
     text-align: center;
-    margin-left: 140px;
+    margin:30px 30px;
   } }
-  /* @media screen and (min-width:600px) and(max-width:767px){
+  /* @media screen and (min-width:600px){
     .about-me{
     text-align: center;
     margin-left:100px;
