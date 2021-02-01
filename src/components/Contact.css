@@ -21,6 +21,14 @@ color:#CC3232;
   margin:10px 40px;
   color:#CC3232 ;
 }
+.active, .fas.fa-envelope:hover {
+  color: 	#BC8F8F;
+}
+.active, .email:hover {
+  color: 	#BC8F8F;
+}
+
+
 
 .contact{
   display:flex;
