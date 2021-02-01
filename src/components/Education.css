@@ -20,7 +20,7 @@
 }
 @media (max-width: 479px){
   .education-one{
-    margin: 0 10% 0 10%;
+    margin: 0 10% 0 40%;
     display: inline-block;
     width: 35%;
   }
