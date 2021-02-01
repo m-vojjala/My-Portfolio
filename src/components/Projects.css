@@ -139,7 +139,7 @@
   }
 }
 
-@media (max-width: 479px){
+@media (max-width: 768px){
   .project{
     margin-left: 140px;
   }
@@ -147,16 +147,16 @@
     margin-left: 140px;
   }
 }
-@media screen and (min-width:600px){
+/* @media screen and (min-width:600px){
   .project{
     margin-left: 100px;
   }
   .project-head{
     margin-left: 100px;
   }
-} 
+}  */
 
-@media screen and (min-width: 768px){
+/* @media screen and (min-width: 768px){
   .card{
     display: flex;
     flex-direction: row;
@@ -212,4 +212,4 @@
     opacity: 0.5;
   }
   
-}
+} */
