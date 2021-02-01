@@ -14,3 +14,9 @@ width: 650px;
 text-align: center;
 }
 }
+@media screen and (max-width:1031px){
+  .footer{
+  width: 50rem;
+  text-align: center;
+  }
+}

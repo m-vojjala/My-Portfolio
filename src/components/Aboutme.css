@@ -44,4 +44,9 @@
     text-align: center;
     margin-left: 120px;
   } }
+  @media screen and (max-width:1031px){
+    .about-me{
+      margin-left: 20rem;
+    }
+  }
  
