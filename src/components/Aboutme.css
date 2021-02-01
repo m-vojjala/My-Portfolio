@@ -44,9 +44,8 @@
     text-align: center;
     margin-left: 140px;
   } }
-/*  
+  @media screen and (min-width:600px){
     .about-me{
-      margin-left: 30rem;
-    }
-  } @media screen and (max-width:1031px){
-  */
+    text-align: center;
+    margin-left:100px;
+  }}
