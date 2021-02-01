@@ -141,3 +141,8 @@
 
  
 
+@media (max-width: 479px){
+  .project{
+    margin-left: 135px;
+  }
+}
