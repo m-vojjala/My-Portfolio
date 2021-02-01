@@ -38,7 +38,7 @@
   } 
  }
 
- @media (max-width: 479px){
+ @media (max-width: 768px){
   .about-me{
     font-size:  17px;
     text-align: center;
