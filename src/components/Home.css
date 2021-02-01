@@ -47,7 +47,7 @@ padding: 0;
 
 @media  screen and(max-width:992){
   .mdl-grid{
-  width: 100%;
+  width: 660px;
   margin:0;
   padding: 0;
   }
