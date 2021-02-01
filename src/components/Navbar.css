@@ -20,6 +20,7 @@
 @media (max-width: 768px){
   .mdl-layout__inner-container {
     width: 50rem;
+    margin-top: -110px;
   }} 
   /* @media screen and (min-width:600px){
     .mdl-layout__inner-container {
