@@ -20,7 +20,9 @@
 }
 @media (max-width: 479px){
   .education-one{
-    margin-left: 240px;
+    margin: 0 10% 0 10%;
+    display: inline-block;
+    width: 35%;
   }
   .education-two{
     margin-left: 220px;
