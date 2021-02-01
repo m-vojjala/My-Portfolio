@@ -3,6 +3,9 @@
   height: 100px;
   color: #483d8b;
 }
+.fas.fa-envelope{
+color:#CC3232;
+}
 
 .phone{
   display: flex;
@@ -16,6 +19,7 @@
   flex-direction: column;
   padding-left: 6em;
   margin:10px 40px;
+  color:#CC3232 ;
 }
 
 .contact{

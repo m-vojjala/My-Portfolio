@@ -6,7 +6,7 @@ export default function Projects() {
         <h3 className="project-head"> PROJECTS </h3>
         <section className="card" >
             <div className="project-first" > 
-            <a href="https://github.com/jjung219/MoveIt-app" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
+            <a href="https://github.com/soccermind/meal-planner.git" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
                     <Card shadow={0} style={{ width: '350px', height: '350px', margin: 'auto', borderRadius: '10px',marginBottom:"30px" }}>
                         <CardTitle expand style={{ color: '#E0FFFF', background: 'url(images/Makeiteasy1.png) right 30% bottom 30% no-repeat', borderBottom: ' #325C74 solid thin' }}> </CardTitle>
                         <CardText style={{ color: '#325C74', background: '#F3F2F2' }}>
