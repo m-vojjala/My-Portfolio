@@ -53,7 +53,7 @@
   opacity: 0.5;
 }
 
-@media only screen and (max-width:2000px) {
+ /* @media only screen and (max-width:2000px) {
   .card{
     margin:30px 30px;
     display:block;
@@ -137,9 +137,7 @@
   .mdl-card--expand:hover {
     opacity: 0.5;
   }
-}
-
- 
+} */
 
 @media (max-width: 479px){
   .project{
@@ -156,4 +154,62 @@
   .project-head{
     margin-left: 100px;
   }
+} 
+
+@media screen and (min-width: 768px){
+  .card{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    margin:10px 150px 40px;
+  }
+  
+  .project{
+    text-align: center;
+    padding-bottom:20px;
+  }
+  .project-head{
+    font-family: 'Oxygen', sans-serif;
+    text-decoration: underline;
+    padding-bottom: 30px;
+    font-weight: 700;
+    text-shadow: 2px 2px #83B4DC;
+    padding-right: 140px;
+  }
+  .active, .mdl-card:hover {
+    box-shadow:5px 10px 5px #778899 ;
+  }
+  
+  .mdl-card{
+    height: 200px;
+    width: 200px;
+    border: #666 solid;
+  }
+  
+  .mdl-card__supporting-text {
+    font-family: 'Oxygen', sans-serif;
+    font-size: medium;
+   
+  }
+  
+  .active, .mdl-button:hover {
+    box-shadow:5px 10px 5px #778899 ; 
+  }
+  
+  .project-first{
+    padding-left: 650px;
+  }
+  
+  .project-second{
+    padding-right: 650px;
+  }
+  
+  .mdl-card--expand{
+    opacity: 1;
+  }
+  
+  .mdl-card--expand:hover {
+    opacity: 0.5;
+  }
+  
 }

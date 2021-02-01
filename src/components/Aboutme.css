@@ -23,7 +23,7 @@
   }
  } */
 
- @media only screen and (max-width: 2000px) {
+ /* @media only screen and (max-width: 2000px) {
   .about-me{
     margin:30px 30px;
     width:100%;
@@ -36,7 +36,7 @@
     font-size:  17px;
     text-align: center;
   } 
- }
+ } */
 
  @media (max-width: 768px){
   .about-me{
@@ -49,3 +49,13 @@
     text-align: center;
     margin-left:100px;
   }}
+  
+  @media screen and (min-width: 768px){
+    .about-me{
+      text-align: center;
+      font-family: 'Oxygen', sans-serif;
+      margin:30px 700px 30px; 
+      padding-top: 400px;
+      padding-bottom: 20px;
+    }
+  }

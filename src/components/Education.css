@@ -48,3 +48,25 @@
   }
   
 }
+@media screen and (min-width: 768px){
+  .education-header{
+    font-family: 'Oxygen', sans-serif;
+    text-decoration: underline;
+    font-weight: 700;
+    text-shadow: 2px 2px #83B4DC;
+  }
+  .education{
+    font-family: 'Oxygen', sans-serif;
+    padding:20px;
+  }
+  .education-one{
+    display: inline-block;
+    width: 35%;
+    margin: 0 10% 0 10%;
+   border-bottom: 2px solid #325C74;
+  }
+  
+  .header-5{
+    font-size: 25px;
+  }
+}
