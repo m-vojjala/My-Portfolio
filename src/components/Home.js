@@ -7,7 +7,7 @@ export default function Home(){
     <Grid className="home-grid">
       <Cell className="home-cell" col={12}>
         <div className="image-cropper">
-     <img src="https://cdn.dribbble.com/users/1070859/screenshots/5869416/gal-_dribbble__still_2x.gif?compress=1&resize=400x300" alt="avatar" />
+     <img src="https://media-exp1.licdn.com/dms/image/C5603AQF92xy7wLmfSg/profile-displayphoto-shrink_800_800/0/1611865256900?e=1617840000&v=beta&t=1CWDxj3RuZcyUIwPy9k2ebNsAkse_eD1L7liHtmuUyI" alt="avatar" />
      </div>
     <h3 className="name">MOUNIKA VOJJALA</h3>
     <ul className="icons"></ul>
