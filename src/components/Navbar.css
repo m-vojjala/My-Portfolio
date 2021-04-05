@@ -14,18 +14,29 @@
   font-size:30px;
   font-family: 'Oxygen', sans-serif; 
 }
-.mdl-layout__inner-container {
+.mdl-layout {
   width: 100%;
 }
-@media (max-width: 768px){
-  .mdl-layout__inner-container {
-    width: 50rem;
+/* @media (max-width: 768px){
+  .mdl-layout {
+    width: 70rem !important;
     
-  }} 
-  @media screen and (min-width:600px) and (max-width:1024px){
-    .mdl-layout__inner-container {
-       color: red; 
-       width: 70rem;
+  }}  */
+  @media screen and (min-width:910) and (max-width:1024px){
+    .mdl-layout { 
+      width: 60rem !important;
+     margin-top: -5px;  
+ }
+}
+  @media screen and (min-width:600px) and (max-width:900px){
+    .mdl-layout { 
+       width: 70rem !important;
       margin-top: -5px;  
   }} 
   
+  @media  screen and (max-width: 601px) {
+    .mdl-layout { 
+      width: 45rem !important;
+     margin-top: -5px;  
+ }
+  }

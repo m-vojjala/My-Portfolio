@@ -7,6 +7,7 @@ import GoToUpButton from './components/GoToUpButton';
 import Contact from "./components/Contact"
 import Footerbar from "./components/Footerbar";
 import './App.css';
+import Experience from "./components/Experience";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
     <Navbar />
     <Aboutme />
     <Skills />
+    <Experience />
     <Projects />
     <Education />
     <Contact />

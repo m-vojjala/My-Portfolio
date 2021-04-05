@@ -55,10 +55,11 @@ padding: 0;
   }
   #home{
     padding: 200px;
+    width: 100%
   }
 }
 
-@media screen and(min-width:600px) and (max-width:1031px){
+@media screen and(min-width:600px) and (max-width:1024px){
   .mdl-grid{
     width: 70rem;
     margin:0;
@@ -66,6 +67,7 @@ padding: 0;
     }
     #home{
       padding: 200px;
+      width: 100%
     }
 }
 @media  screen and (max-width: 601px) {
@@ -76,6 +78,7 @@ padding: 0;
     }
     #home{
       padding-top: 20px;
+      width: 100%
     }
 
 }
@@ -88,6 +91,7 @@ padding: 0;
     }
     #home{
       padding-top: 20px;
+      width: 100%
     }
 }
 
@@ -99,5 +103,6 @@ padding: 0;
       }
       #home{
         padding-top: 20px;
+        width: 100%
       }
 }

@@ -3,9 +3,9 @@ import "./Home.css";
 
 
 export default function Home(){
-  return <section id="home"> 
+  return <section id="home" > 
     <Grid className="home-grid">
-      <Cell className="home-cell" col={12}>
+      <Cell col={12} tablet={12} phone={12} className="home-cell" >
         <div className="image-cropper">
      <img src="https://media-exp1.licdn.com/dms/image/C5603AQF92xy7wLmfSg/profile-displayphoto-shrink_800_800/0/1611865256900?e=1617840000&v=beta&t=1CWDxj3RuZcyUIwPy9k2ebNsAkse_eD1L7liHtmuUyI" alt="avatar" />
      </div>
