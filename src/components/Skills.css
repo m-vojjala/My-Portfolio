@@ -23,7 +23,7 @@ hr {
   font-size: 25px;
 }
 
-@media screen and (max-width:2000px){
+@media screen and (max-width:600px){
   .skills{
     text-align: center;
     margin: 0;
@@ -56,9 +56,9 @@ hr {
    }
  }
 
- @media screen and (min-width:600px) and (max-width:1024px){
+ @media screen and (min-width:601px) and (max-width:2000px){
   .skills{
-    margin-left: 100px;
+    margin: 30px 30px;
   }
  }
  /* @media screen and (min-width: 768px){

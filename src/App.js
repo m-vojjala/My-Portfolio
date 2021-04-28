@@ -20,7 +20,7 @@ function App() {
     <Education />
     <Contact />
     <GoToUpButton />
-    <Footerbar /> 
+    {/* <Footerbar />  */}
     </div>
   );
 }
