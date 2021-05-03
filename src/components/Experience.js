@@ -4,7 +4,7 @@ import "./Experience.css"
 
 export default function Experience(){
   return <section id='experience'><h3 className="aboutme-head">WORK EXPERIENCE</h3>
-  <h4>fliteX - Full Stack Developer Intern (Febrauary 2021- March 2021)</h4>
+  <h4>fliteX - Full Stack Developer Intern (February 2021- March 2021)</h4>
   <List style={{alignContent:'center'}}>
     <ListItem style={{color:'#325C74',fontSize:'22px',fontFamily:"'Oxygen', sans-serif"}}>
  Optimized the application dashboard and reduced it's loading time by 50 seconds.</ListItem>
