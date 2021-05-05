@@ -28,7 +28,15 @@ img{
   height: 100px;
   color:	#BC8F8F;
 }
+.fas.fa-file-pdf{
+  width: 100px;
+  height: 100px;
+  color:	#BC8F8F;
+}
 .active, .fab:hover {
+  color: 	#F0F8FF;
+}
+.active, .fas:hover {
   color: 	#F0F8FF;
 }
 

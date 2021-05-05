@@ -8,8 +8,10 @@ export default function Home(){
       <Cell col={12} tablet={12} phone={12} className="home-cell" >
     <h3 className="name">MOUNIKA VOJJALA</h3>
     <ul className="icons"></ul>
+    <a href="https://drive.google.com/file/d/1eqdukI7U_6qXGvMpCy6n6hFbd2x-HgRi/view?usp=sharing" target="_blank"rel="noopener noreferrer"> <i class="fas fa-file-pdf fa-4x"></i></a>
     <a href="https://www.linkedin.com/in/mounika-vojjala-a157a98a/"  target="_blank" rel="noopener noreferrer"><i  class="fab fa-linkedin-in fa-4x" ></i></a>
     <a href="https://github.com/m-vojjala"  target="_blank" rel="noopener noreferrer"><i  class="fab fa-github fa-4x" ></i></a>
+   
     </Cell>
     </Grid>
   </section>
